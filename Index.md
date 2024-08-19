@@ -1,0 +1,1 @@
+fdgit add -A
